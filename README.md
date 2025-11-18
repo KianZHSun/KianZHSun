@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is Kian and I am a student studying Computer Science
 
 <!--
 **KianZHSun/KianZHSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
